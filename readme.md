@@ -2,7 +2,7 @@
 
 Seorang mindustry dan minecraft players, modder mindustry dan minecraft, dan gw masih belajar tentang javascript
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=ExplerHD&count_private=true&show_icons=true&include_all_commits=true&hide_border=false&count_private=true&theme=light_high_dim&title_color=b9f2ff&text_color=b9f2ff)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=ExplerHD&count_private=true&show_icons=true&include_all_commits=true&hide_border=false&count_private=true&theme=light&title_color=506e56&text_color=506e56)
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=ExplerHD)
 
